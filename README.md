@@ -1,21 +1,9 @@
-# techtogether-2020
+# Posi🌳vity
 
-Description 
+[Figma Prototype](https://www.figma.com/proto/j2FgAoh9sLyOURucU2u7v1/Prototype?node-id=79%3A58&scaling=scale-down)
 
-## How to use locally
+## Code
 
-If you want to run the app on your computer, navigate to the project folder in your terminal and run:
+We completed the backend code, but still have to create the front end! 
 
-```
-npm install
-```
-
-Then you can start the web app with this command 
-
-```
-npm run start
-```
-This will start the developer serverr and automatically open a browser window to `localhost:8080`. 
-
-
-
+You can find our code in the `backend` folder.
